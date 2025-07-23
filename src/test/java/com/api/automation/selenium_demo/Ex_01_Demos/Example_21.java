@@ -28,7 +28,7 @@ public class Example_21 {
 		  passWord.sendKeys(password); 
 		  
 		  //Test Purpose Testing
-		 
+		 // Verifying a newly creatred branch 2
 		  
 		  try {
 			Thread.sleep(2000);
