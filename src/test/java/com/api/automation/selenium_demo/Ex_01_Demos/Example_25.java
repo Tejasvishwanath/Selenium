@@ -43,6 +43,7 @@ public class Example_25 {
 	        	
 	        	Actions actions = new Actions(driver);
 	        	actions.moveToElement(cell).click().perform();
+	        	// Adding
 	        	
 	        	
 	        }
