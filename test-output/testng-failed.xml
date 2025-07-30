@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.api.automation.selenium_demo.Ex_01_Demos.Example_21">
+      <class name="com.api.automation.selenium_demo.Ex_01_Demos.Example_25">
         <methods>
-          <include name="TC_21"/>
+          <include name="TC_25"/>
         </methods>
-      </class> <!-- com.api.automation.selenium_demo.Ex_01_Demos.Example_21 -->
+      </class> <!-- com.api.automation.selenium_demo.Ex_01_Demos.Example_25 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
